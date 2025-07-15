@@ -20,7 +20,7 @@
 
 title: MindStack
 email: rupeshdhiman61@example.com
-description: >-  A collection of intellectual tools, ideas, or technologies that empower the mind.
+description:  "A collection of intellectual tools, ideas, or technologies that empower the mind."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
